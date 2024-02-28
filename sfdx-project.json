@@ -1,0 +1,16 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Issue2735",
+            "versionName": "0.1.2",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sourceApiVersion": "60.0",
+    "packageAliases": {
+        "Issue2735": "0HoJx00000000WHKAY"
+    }
+}
